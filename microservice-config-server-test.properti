@@ -1,1 +1,15 @@
 
+
+## SWITCH(ON/OFF)
+SWITCH = ON
+
+## APPKEY
+APPKEY = AFMIS
+
+#fangzhen
+PRMC_BASE_URL = http://192.168.1.153:8189/prmc_fz
+
+#xianwang
+#PRMC_BASE_URL = http://192.168.0.5:8089/prmc
+
+
